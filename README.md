@@ -99,7 +99,7 @@ Tech Stack: HTML, CSS, JavaScript, React
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shriniwasdhage&show_icons=true&theme=default" />
 </p>
 
 ---
